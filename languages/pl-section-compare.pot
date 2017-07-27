@@ -1,0 +1,71 @@
+# Copyright (C) 2017 PageLines
+# This file is distributed under the same license as the PageLines Section Compare package.
+msgid ""
+msgstr ""
+"Project-Id-Version: PageLines Section Compare 5.0.0\n"
+"Report-Msgid-Bugs-To: "
+"https://wordpress.org/support/plugin/pl-section-compare\n"
+"POT-Creation-Date: 2017-06-19 21:33:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 0.5.4\n"
+
+#: pl-section-compare.php:48
+msgid "Compare"
+msgstr ""
+
+#: pl-section-compare.php:49
+msgid ""
+"Images must have same width or same aspect ratio to cover section area "
+"equally."
+msgstr ""
+
+#: pl-section-compare.php:56
+msgid "Before Image"
+msgstr ""
+
+#: pl-section-compare.php:63
+msgid "Before Text"
+msgstr ""
+
+#: pl-section-compare.php:70
+msgid "After Image"
+msgstr ""
+
+#: pl-section-compare.php:77
+msgid "After Text"
+msgstr ""
+
+#: pl-section-compare.php:84
+msgid "Handle Color"
+msgstr ""
+
+#: pl-section-compare.php:90
+msgid "Arrows Color"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "PageLines Section Compare"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"A simple section for comparing two images next to each other with a "
+"before/after slider."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "PageLines"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://www.pagelines.com"
+msgstr ""
+
+#. Tags of the plugin/theme
+msgid "images, items"
+msgstr ""
