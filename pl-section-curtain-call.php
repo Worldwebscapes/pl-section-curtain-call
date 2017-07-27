@@ -8,7 +8,7 @@
   Author URI:   http://www.worldwebscapes.com
   Demo:         true
 
-  Version:      5.0.1
+  Version:      5.0.5
 
   PageLines:    PL_Curtain_Call_Section
   Filter:       component
@@ -105,7 +105,7 @@ class PL_Curtain_Call_Section extends PL_Section {
 
 					'type' => 'richtext',
 
-					'default' => 'A Customized Video Section For PageLines 5. Just Add Popcorn!'
+					'default' => 'A Customized Video Section For PageLines 5. Just Add Popcorn And Go!'
 
 				),
 
