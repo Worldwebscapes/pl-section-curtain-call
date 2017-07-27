@@ -8,7 +8,7 @@
   Author URI:   http://www.worldwebscapes.com
   Demo:         true
 
-  Version:      5.0.0
+  Version:      5.0.1
 
   PageLines:    PL_Curtain_Call_Section
   Filter:       component
@@ -18,6 +18,34 @@
   Tags:         images, items
 
 */
+
+ require 'plugin-update-checker/plugin-update-checker.php';
+
+$myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
+
+    'https://github.com/Worldwebscapes/pl-section-curtain-call',
+
+    __FILE__,
+
+    'pl-section-curtain-call.php'
+
+);
+
+
+
+//Optional: If you're using a private repository, specify the access token like this:
+
+$myUpdateChecker->setAuthentication('');
+
+
+
+//Optional: Set the branch that contains the stable release.
+
+$myUpdateChecker->setBranch('');
+
+
+
+
 
 if ( !class_exists( 'PL_Section' ) )
 	return;
